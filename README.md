@@ -1,5 +1,2 @@
 
-# SmallWeChat-
-# SmallWeChat-
-# SmallWeChat-
 # SmallWeChat
